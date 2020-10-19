@@ -141,6 +141,25 @@
     <string name="volume_key_cursor_control_off">Отключён</string>
     <string name="volume_key_cursor_control_on">Громкость вверх/вниз перемещает курсор влево/вправо</string>
     <string name="volume_key_cursor_control_on_reverse">Громкость вверх/вниз перемещает курсор вправо/влево</string>
+    <!-- Global Actions -->
+    <string name="global_actions_title">Меню питания</string>
+    <string name="global_actions_summary">Выберите, что показывать при нажатии кнопки питания</string>
+    <string name="global_actions_power">Питание</string>
+    <string name="global_actions_restart">Перезагрузка</string>
+    <string name="global_actions_airplane">Режим полета</string>
+    <string name="global_actions_settings">Настройки</string>
+    <string name="global_actions_lockdown">Блокировка</string>
+    <string name="global_actions_soundpanel">Звуковая панель</string>
+    <string name="global_actions_users">Пользователи</string>
+    <string name="global_actions_screenshot">Скриншот</string>
+    <string name="global_actions_screenrecord">Запись экрана</string>
+    <string name="global_actions_flashlight">Вспышка</string>
+    <string name="global_actions_emergency">Чрезвычайная ситуация</string>
+    <string name="global_actions_advanced_reboot_title">Включить расширенную перезагрузку</string>
+    <string name="global_actions_advanced_reboot_summary">При перезапуске показывать параметры восстановления и загрузчика</string>
+    <string name="global_actions_max_columns_title">Максимальное количество отображаемых действий</string>
+    <string name="global_actions_max_columns_summary">Установите, сколько действий показывать, прежде чем кнопки перейдут в дополнительное меню</string>
+    <string name="global_actions_onthego_title">На ходу</string>
     <!-- Volume Button Music Control -->
     <string name="volume_rocker_music_controls_title">Управление музыкой</string>
     <string name="volume_rocker_music_controls_summary">Переключать треки долгим нажатием кнопок громкости при выключенном экране</string>
